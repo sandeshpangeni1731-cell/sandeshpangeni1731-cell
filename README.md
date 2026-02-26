@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Sandesh Pangeni!
 
-<!--
-**sandeshpangeni1731-cell/sandeshpangeni1731-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 About Me
+- 📍 I live in Butwal, Nepal 🇳🇵
+- 🏏 My hobby is playing cricket
+- 💻 I am passionate about learning new skills
+- 🚀 I love improving myself every day
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏏 Hobbies
+- Playing Cricket
+- Learning new things
+- Exploring technology
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+---
+
+## 🌟 Quote
+> "Work hard in silence, let success make the noise."
+
+---
+
+## 📫 Connect With Me
+- 📍 Butwal, Nepal
+- 📧 your-email@example.com
+
+---
+
+### ⚡ Fun Fact
+I never miss a chance to play cricket! 🏏
